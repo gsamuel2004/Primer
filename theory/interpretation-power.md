@@ -1,4 +1,4 @@
-S---
+---
 layout: default
 title: Interpretation and Power
 description: How Stuart Hall's encoding/decoding framework explains contested meaning.
