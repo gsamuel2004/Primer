@@ -6,9 +6,9 @@ description: Home page for a communication theory primer project.
 
 <section class="hero" aria-labelledby="home-overview">
   <div class="hero-copy">
-    <p class="eyebrow">A practical primer · 01 / 06</p>
-    <h1 id="home-overview">Make the commonplace <em>visible.</em></h1>
-    <p class="hero-lead">Communication theory gives us better questions for the moments when messages go sideways, meaning gets lost, or technology starts making decisions for us.</p>
+    <p class="eyebrow">AI, COMMUNICATION & TRUST · 01 / 06</p>
+    <h1 id="home-overview">When AI <em>writes for us.</em></h1>
+    <p class="hero-lead">AI is changing how we communicate. From professional emails to personal messages, this primer explores what happens to meaning, intention, and trust when technology helps write our words.</p>
     <a class="button button-primary" href="{{ '/theory/transmission-limits/' | relative_url }}">Begin with the signal <span aria-hidden="true">↗</span></a>
   </div>
   <div class="hero-index" aria-hidden="true"><span>VT</span><strong>01</strong><small>THEORY<br>IN PRACTICE</small></div>
