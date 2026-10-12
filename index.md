@@ -17,8 +17,8 @@ description: Home page for a communication theory primer project.
 <section class="intro-band" aria-labelledby="primer-intro">
   <div class="section-label"><span>01</span><span>Why this exists</span></div>
   <div>
-    <h2 id="primer-intro">For messages that matter.</h2>
-    <p>From a group chat to an AI-generated recommendation, communication is never just the movement of information. This guide connects foundational ideas to the contemporary systems and situations that shape daily life and work.</p>
+    <h2 id="primer-intro">The hidden author in everyday communication.</h2>
+    <p>AI is becoming a hidden participant in everyday conversations. Whether someone uses it to draft a professional sales email, respond to a customer, or write a personal message, AI can influence how their intentions are expressed. This raises an important question: when technology helps choose our words, how does that change the way others interpret our effort, authenticity, and trustworthiness?</p>
   </div>
 </section>
 
