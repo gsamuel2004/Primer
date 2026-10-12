@@ -1,0 +1,13 @@
+title: "Communication Theory Primer"
+description: "An accessible primer on communication theory for understanding contemporary communication challenges involving AI."
+url: "https://gsamuel2004.github.io"
+baseurl: "/Primer"
+repository: "gsamuel2004/Primer"
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
