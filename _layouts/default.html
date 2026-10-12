@@ -10,9 +10,18 @@
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
+    <div class="utility-bar">
+      <div class="container utility-inner">
+        <span>Virginia Tech · Communication Studies</span>
+        <span class="utility-meta">A field guide for thinking clearly together <span aria-hidden="true">↗</span></span>
+      </div>
+    </div>
     <header class="site-header" role="banner" aria-label="Site header">
-      <div class="container">
-        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span class="brand-mark" aria-hidden="true">VT</span>
+          <span class="brand-copy"><span class="brand-school">Virginia Tech</span><span class="site-title">{{ site.title }}</span></span>
+        </a>
         <p class="site-tagline">{{ site.description }}</p>
       </div>
     </header>
@@ -20,13 +29,13 @@
     <nav class="site-nav" role="navigation" aria-label="Primary navigation">
       <div class="container">
         <ul>
-          <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/theory/transmission-limits/' | relative_url }}">Transmission view</a></li>
+          <li><a class="nav-home" href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/theory/transmission-limits/' | relative_url }}">Transmission</a></li>
           <li><a href="{{ '/theory/meaning-culture/' | relative_url }}">Meaning &amp; culture</a></li>
-          <li><a href="{{ '/theory/interpretation-power/' | relative_url }}">Interpretation &amp; power</a></li>
-          <li><a href="{{ '/theory/interpretation-intention/' | relative_url }}">Interpretation &amp; intention</a></li>
-          <li><a href="{{ '/theory/reader-guidance/' | relative_url }}">What readers should do</a></li>
-          <li><a href="{{ '/theory/how-this-site-was-built/' | relative_url }}">How this site was built</a></li>
+          <li><a href="{{ '/theory/interpretation-power/' | relative_url }}">Power</a></li>
+          <li><a href="{{ '/theory/interpretation-intention/' | relative_url }}">Intention</a></li>
+          <li><a href="{{ '/theory/reader-guidance/' | relative_url }}">Reader guidance</a></li>
+          <li class="nav-end"><a href="{{ '/theory/how-this-site-was-built/' | relative_url }}">About the primer <span aria-hidden="true">↗</span></a></li>
         </ul>
       </div>
     </nav>
