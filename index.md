@@ -25,12 +25,12 @@ description: Home page for a communication theory primer project.
 <section class="topics" aria-labelledby="site-roadmap">
   <div class="section-heading"><div><p class="eyebrow">The reading room</p><h2 id="site-roadmap">Six ways to look closer.</h2></div><span class="heading-note">START HERE / KEEP GOING</span></div>
   <div class="topic-grid">
-    <a class="topic-card topic-featured" href="{{ '/theory/transmission-limits/' | relative_url }}"><span class="topic-number">01</span><span class="topic-arrow">↗</span><h3>The transmission view and its limits</h3><p>Why an AI-written message can be delivered perfectly but still fail to communicate its intended meaning. Copy</p></a>
+    <a class="topic-card topic-featured" href="{{ '/theory/transmission-limits/' | relative_url }}"><span class="topic-number">01</span><span class="topic-arrow">↗</span><h3>The transmission view and its limits</h3><p>Why an AI-written message can be delivered perfectly but still fail to communicate its intended meaning.</p></a>
     <a class="topic-card" href="{{ '/theory/meaning-culture/' | relative_url }}"><span class="topic-number">02</span><span class="topic-arrow">↗</span><h3>Meaning &amp; culture</h3><p>How AI-generated language can shape the way readers perceive authenticity, effort, and trust.</p></a>
     <a class="topic-card" href="{{ '/theory/interpretation-power/' | relative_url }}"><span class="topic-number">03</span><span class="topic-arrow">↗</span><h3>Interpretation &amp; power</h3><p>Why different audiences can interpret the exact same AI-assisted message in different ways.</p></a>
     <a class="topic-card" href="{{ '/theory/interpretation-intention/' | relative_url }}"><span class="topic-number">04</span><span class="topic-arrow">↗</span><h3>Intention &amp; interpretation</h3><p>How human intention, reader interpretation, and algorithmic wording interact to shape meaning.</p></a>
     <a class="topic-card" href="{{ '/theory/reader-guidance/' | relative_url }}"><span class="topic-number">05</span><span class="topic-arrow">↗</span><h3>Reader guidance</h3><p>Practical ways to use AI when writing messages while preserving authenticity and personal responsibility.</p></a>
-    <a class="topic-card" href="{{ '/theory/how-this-site-was-built/' | relative_url }}"><span class="topic-number">06</span><span class="topic-arrow">↗</span><h3>About the primer</h3><p>Explore the communication theories, academic sources, and research behind this project. Copy</p></a>
+    <a class="topic-card" href="{{ '/theory/how-this-site-was-built/' | relative_url }}"><span class="topic-number">06</span><span class="topic-arrow">↗</span><h3>About the primer</h3><p>Explore the communication theories, academic sources, and research behind this project.</p></a>
   </div>
 </section>
 
