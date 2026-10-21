@@ -36,9 +36,10 @@ permalink: /theory/interpretation-intention/
 
 <p>One recipient might interpret an AI-assisted email as professional and thoughtful. Another might see the same message as generic or overly polished. These differences demonstrate how interpretation depends partly on the person receiving the communication.</p>
 
-<h2>A Proposed Fourth Layer: Intentio Algorithmi</h2>
 
-<p>Building on Eco's three intentions, this primer proposes a fourth analytical category: <em>intentio algorithmi</em>, or algorithmic intention. This is a proposed concept for examining how AI systems influence the production of messages even when they do not possess human intentions.</p>
+<h2>The Fourth Layer: Intentio Algorithmi</h2>
+
+<p>Building on Eco's three intentions, Carlos Evia and Sarah O'Keefe (2026) discuss the algorithm's organizing logic as an additional participant in communication in <em>The Uninvited Author</em>. This fourth perspective, <em>intentio algorithmi</em>, helps explain how AI systems influence the production of messages even though they do not possess human communicative intentions. This primer applies that perspective specifically to AI-assisted personal and professional messages.</p>
 
 <p>The term does not suggest that an AI system has personal desires, emotions, or conscious goals. Instead, it identifies the operational tendencies that shape AI-generated language, including training patterns, system instructions, optimization objectives, and the user's prompt.</p>
 
@@ -67,7 +68,7 @@ permalink: /theory/interpretation-intention/
 
 <p>Imagine sending an AI-assisted text message to a friend after an argument. Your goal is to apologize sincerely. The AI system suggests calm, carefully structured language. Your friend receives the message but notices that it sounds different from your usual communication style.</p>
 
-<p>From the perspective of <em>intentio auctoris</em>, your intention was reconciliation. From <em>intentio operis</em>, the text communicates an apology through its actual wording. From <em>intentio lectoris</em>, your friend may interpret the message as sincere or impersonal. From the proposed <em>intentio algorithmi</em> perspective, the AI system's tendency to produce polished, conventional language helped shape the final expression.</p>
+<p>From the perspective of <em>intentio auctoris</em>, your intention was reconciliation. From <em>intentio operis</em>, the text communicates an apology through its actual wording. From <em>intentio lectoris</em>, your friend may interpret the message as sincere or impersonal. From the <em>intentio algorithmi</em> perspective, the AI system's tendency to produce polished, conventional language helped shape the final expression.</p>
 
 <p>Considering all four perspectives helps explain why a message can accurately express someone's goals while still creating an unexpected reaction.</p>
 
@@ -75,14 +76,16 @@ permalink: /theory/interpretation-intention/
 
 <p>AI-assisted writing complicates the relationship between authorship and expression. A person may remain responsible for sending a message while relying on technology to determine how that message sounds. This makes it increasingly important to distinguish between human intention, textual meaning, reader interpretation, and algorithmic influence.</p>
 
-<p>The proposed concept of <em>intentio algorithmi</em> is not presented as an established fourth category developed by Eco. Rather, it is an analytical extension offered by this primer to encourage further discussion about AI-mediated communication.</p>
+
+<p><em>Intentio algorithmi</em> was not one of Eco's original three intentions. Evia and O'Keefe (2026) discuss algorithmic intention as an additional influence on the creation and interpretation of content. This primer applies that framework to everyday AI-assisted communication, showing how AI can shape messages without replacing human responsibility for what is ultimately sent.</p>
 
 <h2>Key Takeaway</h2>
 
-<p><strong>When AI helps write our words, understanding communication requires examining both human intention and algorithmic influence.</strong> Eco's framework reminds us that meaning cannot be reduced to what an author wanted to say. The proposed fourth perspective invites us to consider how technology participates in shaping the messages we send and interpret.</p>
+<p><strong>When AI helps write our words, understanding communication requires examining both human intention and algorithmic influence.</strong> Eco's framework reminds us that meaning cannot be reduced to what an author wanted to say. The fourth perspective discussed by Evia and O'Keefe (2026) encourages us to consider how AI participates in shaping the messages we send and interpret.</p>
 
 <h2>Reference</h2>
 
 <p>Eco, Umberto. <em>The Limits of Interpretation</em>. Indiana University Press, 1990.</p>
+<p>Evia, Carlos, and Sarah O'Keefe. <em>The Uninvited Author: AI, Intent, and the Future of Content</em>. Scriptorium Publishing Services, 2026.</p>
 </p>
 </article>
