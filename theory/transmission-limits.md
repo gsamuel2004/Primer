@@ -24,10 +24,12 @@ permalink: /theory/transmission-limits/
 
 <h2>Where the Transmission View Reaches Its Limits</h2>
 <p>The transmission perspective helps explain how information moves between people, but AI-assisted messaging raises questions that cannot be answered through technical accuracy alone. When a human supplies the original idea and an algorithm produces the final wording, the relationship between authorship, intention, and interpretation becomes more complicated.</p>
-<p>Ted Chiang's essay <em>ChatGPT Is a Blurry JPEG of the Web</em> (2023) offers a useful critique of treating fluent language-model output as equivalent to meaningful human expression. His comparison of language models to lossy compression helps illustrate why polished output should not automatically be treated as a faithful expression of a particular person's intentions.</p>
+<p>In his 2023 essay <em>ChatGPT Is a Blurry JPEG of the Web</em>, Ted Chiang compares large language models to lossy compression systems that reproduce patterns from their training material without preserving every detail. His argument helps explain why grammatically polished AI-generated writing should not automatically be mistaken for accurate understanding or faithful human expression. A message may sound convincing while still omitting important context, introducing inaccuracies, or changing the sender's intended emphasis.</p>
 
 <h2>Applying the Theory to Everyday Communication</h2>
-<p>Consider two situations. In a professional setting, a salesperson asks AI to write a follow-up email after meeting a potential customer. In a personal setting, someone asks AI to improve a message to a landlord. Both messages may be delivered successfully, but the recipient's interpretation depends on context, expectations, and the relationship between the people involved.</p>
+<p>Consider two situations. In a professional setting, a salesperson gives AI three bullet points after meeting a potential customer: thank the customer for meeting, send the requested information, and suggest another conversation. The AI transforms those points into a polished email with formal phrases such as "I sincerely appreciate your valuable time." Although the message accurately communicates the salesperson's basic information, the customer may interpret its unusually formal tone as impersonal or automated.</p>
+
+<p>In a personal setting, someone asks AI to improve a message to a landlord about a maintenance issue. The original request may be direct and frustrated, but AI might rewrite it as extremely polite and formal. The message still reaches the landlord, yet the revised wording could reduce the urgency the sender wanted to express. In both situations, successful delivery does not guarantee that the recipient understands the sender's intended tone or priorities.</p>
 <p>These examples show that AI-assisted writing is not simply a matter of making communication faster. It can also change how personal effort and authenticity are communicated through language.</p>
 
 <h2>Key Takeaway</h2>
@@ -36,5 +38,4 @@ permalink: /theory/transmission-limits/
 <h2>References</h2>
 <p>Chiang, Ted. "ChatGPT Is a Blurry JPEG of the Web." <em>The New Yorker</em>, February 9, 2023.</p>
 <p>Shannon, Claude E., and Warren Weaver. <em>The Mathematical Theory of Communication.</em> University of Illinois Press, 1949.</p>
-  </p>
 </article>
