@@ -25,7 +25,7 @@ permalink: /theory/meaning-culture/
 <p>These characteristics do not prove that a message was written by AI. Human writers can use similar language, and AI-generated writing can sound natural. What matters for semiotic analysis is that readers may treat these features as signs of AI involvement, whether their assumptions are correct or not.</p>
 
 <h2>Saussure: Meaning Depends on Relationships</h2>
-<p>Ferdinand de Saussure's approach to language emphasizes that signs gain meaning through their relationships with other signs within a system. This provides a useful foundation for examining why the same wording can carry different social meanings depending on the communication context.</p>
+<p>Ferdinand de Saussure's approach to language distinguishes between the <em>signifier</em>, the form a sign takes, and the <em>signified</em>, the concept associated with that form. For example, the written phrase "I sincerely appreciate your consideration" is a signifier, while the idea of expressing gratitude is part of what it signifies. Saussure also emphasizes that signs gain meaning through their relationships with other signs within a language system. This helps explain how the same wording can carry different associations depending on the communication context.</p>
 <p>Consider the phrase "I sincerely appreciate your consideration." In a formal business email, this wording may appear appropriate. In a casual message between close friends, the same phrase may seem distant or unnatural. Readers interpret language in relation to expectations about the situation and the relationship between sender and recipient.</p>
 
 <h2>Applying Semiotics to AI-Assisted Messages</h2>
@@ -36,6 +36,5 @@ permalink: /theory/meaning-culture/
 <p><strong>AI-assisted communication changes more than sentence structure. It can also change the cultural signs through which readers judge authenticity, effort, and trust.</strong> Understanding these signs requires attention to the reader, the relationship, and the context.</p>
 
 <h2>Reference</h2>
-<p>Chandler, Daniel. <em>Semiotics: The Basics.</em> Introduction and Chapter 1. CMST 4714 course reading.</p>
-  </p>
+<p>Chandler, Daniel. <em>Semiotics: The Basics.</em> 5th ed., Routledge, 2025. Introduction and Chapter 1.</p>
 </article>
