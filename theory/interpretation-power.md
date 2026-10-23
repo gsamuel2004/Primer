@@ -22,6 +22,11 @@ permalink: /theory/interpretation-power/
 <p>Decoding occurs when the recipient interprets the message. The reader does not have direct access to the sender's intentions or the process used to create the text. Instead, the reader interprets the words using personal experiences, cultural assumptions, and expectations about the relationship.</p>
 <p>A polished AI-assisted apology might therefore be understood as thoughtful and respectful, or it might raise questions about whether the sender made a genuine personal effort.</p>
 
+<h2>The Two-Way Human-AI Encoding and Decoding Process</h2>
+<p>AI-assisted communication adds another stage between the human sender and the final recipient. First, a human encodes an intention into a prompt by describing what they want to communicate. The AI system then processes that prompt according to its training, instructions, and operating constraints. Next, the system generates a response, encoding the requested information into particular words, sentences, and expressions. Finally, the human interprets the AI-generated response, decides whether it reflects the intended message, and may revise it before sending it to another person.</p>
+
+<p>This process can be understood as an extension of Hall's encoding/decoding framework rather than a model Hall originally developed for artificial intelligence. For example, an employee might ask AI to write an apology that sounds sincere. The AI produces a polished message, but the employee must decide whether the wording communicates genuine responsibility. After the employee sends it, the coworker performs another act of decoding by interpreting the final message through their own expectations and experiences.</p>
+
 <h2>Hall's Three Decoding Positions</h2>
 <p>Hall identifies three broad positions from which audiences may interpret messages: dominant-hegemonic, negotiated, and oppositional. These positions help explain why an AI-assisted message can produce different reactions.</p>
 
@@ -36,7 +41,7 @@ permalink: /theory/interpretation-power/
 
 <h2>Power and the Interpretation of AI-Assisted Messages</h2>
 <p>Hall's framework also draws attention to power. Not everyone has equal influence over how messages are produced, circulated, or interpreted. In professional settings, organizations may establish expectations for polished communication, while employees feel pressure to use AI tools to meet those expectations. The resulting messages can reflect organizational standards as well as individual intentions.</p>
-<p>AI systems also influence the language available to senders by generating particular styles, structures, and expressions. These choices may reinforce conventional expectations about what professional or appropriate communication should sound like. However, recipients can still accept, negotiate, or resist the meanings presented to them.</p>
+<p>AI systems also influence the language available to senders by generating particular styles, structures, and expressions. These choices may reinforce conventional expectations about what professional or appropriate communication should sound like. For example, an AI system may rewrite an employee's direct request into a more formal and deferential message, reflecting workplace expectations about politeness and authority. This raises questions about whose communication styles are treated as professional and whose voices may be softened or standardized. However, recipients can still accept, negotiate, or resist the meanings presented to them.</p>
 
 <h2>Applying the Theory to Everyday Communication</h2>
 <p>Consider an AI-assisted customer service response that says, "We sincerely apologize for the inconvenience and appreciate your understanding." A satisfied customer may interpret the response as professional and helpful. A frustrated customer may appreciate the acknowledgment but still expect a more personal solution. Another customer may reject the message entirely because it resembles an automated response.</p>
@@ -46,6 +51,5 @@ permalink: /theory/interpretation-power/
 <p><strong>AI can help construct a message, but it cannot guarantee how that message will be interpreted.</strong> Stuart Hall's encoding/decoding model shows that communication depends on the relationship between production, interpretation, culture, and power. Even when a sender intends to communicate sincerity, a recipient may interpret AI-assisted language differently.</p>
 
 <h2>Reference</h2>
-<p>Hall, Stuart. "Encoding/Decoding." In <em>Culture, Media, Language</em>, edited by Stuart Hall, Dorothy Hobson, Andrew Lowe, and Paul Willis, 128-138. Hutchinson, 1980.</p>
-</p>
+<p>Hall, Stuart. "Encoding/Decoding." In <em>Culture, Media, Language</em>, edited by Stuart Hall, Dorothy Hobson, Andrew Lowe, and Paul Willis, 128-138. Hutchinson, 1980.
 </article>
