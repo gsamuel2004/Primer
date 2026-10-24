@@ -55,7 +55,7 @@ permalink: /theory/reader-guidance/
 
 <h2>4. Understand the Role of AI in Shaping Your Words</h2>
 
-<p>Umberto Eco's framework distinguishes among the intentions associated with the author, the text, and the reader. This primer also proposes <em>intentio algorithmi</em> as a fourth analytical perspective for examining how AI systems influence the language people use.</p>
+<p>Umberto Eco's framework distinguishes among the intentions associated with the author, the text, and the reader. Building on this framework, Carlos Evia and Sarah O'Keefe (2026) discuss <em>intentio algorithmi</em> as a fourth perspective for examining the organizing influence of AI systems on communication. This primer applies that perspective to everyday AI-assisted messages, where algorithmic choices can shape how a person's intentions are expressed.</p>
 
 <p><strong>What to do:</strong> Treat AI-generated writing as a draft that requires human judgment rather than as a finished representation of your personal intentions.</p>
 
@@ -80,6 +80,8 @@ permalink: /theory/reader-guidance/
 
 <p><strong>Practical recommendation:</strong> Review AI-assisted messages for factual accuracy, personalization, tone, and promises before sending them.</p>
 
+<p><strong>Transparency matters:</strong> Consider whether the recipient should know that AI helped produce the message. Disclosure may be especially important when organizational policies require it, when the message represents an official position, or when AI assistance could affect the recipient's trust. Not every minor use of AI requires an announcement, but communicators should avoid misleading others about the work or judgment behind their messages.</p>
+
 <h3>Social Media Communication</h3>
 
 <p>Social media messages are interpreted by audiences with different cultural backgrounds, expectations, and experiences. AI-generated captions or responses may be understood differently from what the creator intended.</p>
@@ -91,6 +93,12 @@ permalink: /theory/reader-guidance/
 <p>AI-generated statements about public issues can influence how people understand organizations, institutions, and events. Clear language is important, but transparency, evidence, and accountability also affect public trust.</p>
 
 <p><strong>Practical recommendation:</strong> Verify factual claims, identify reliable sources, and avoid presenting AI-generated assertions as established facts without checking them.</p>
+
+<h3>Privacy and Confidentiality</h3>
+
+<p>AI writing tools may process information that users enter into prompts. Before using AI to draft a message, consider whether the material contains private details about yourself, another person, a customer, or an organization. Avoid entering sensitive or confidential information into tools unless you are authorized to do so and understand the relevant privacy protections.</p>
+
+<p><strong>Practical recommendation:</strong> Remove unnecessary names, contact information, financial details, and confidential workplace information before asking AI for writing assistance. Follow organizational policies and use approved tools when handling protected information.</p>
 
 <h2>A Five-Question Checklist Before Sending an AI-Assisted Message</h2>
 
@@ -119,5 +127,4 @@ permalink: /theory/reader-guidance/
 <h2>Final Takeaway</h2>
 
 <p><strong>Effective communication requires more than producing the right words.</strong> It requires attention to context, culture, interpretation, and responsibility. AI can make writing faster, but thoughtful human judgment remains essential for building understanding and trust.</p>
-</p>
 </article>
