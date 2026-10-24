@@ -40,7 +40,7 @@ permalink: /theory/how-this-site-was-built/
 
 <h3>4. Umberto Eco: Interpretation and Intention</h3>
 
-<p>Eco's framework distinguishes among the author's intention, the text's intention, and the reader's intention. This primer applies those perspectives to AI-assisted writing and proposes an additional analytical category called <em>intentio algorithmi</em>.</p>
+<p>Eco's framework distinguishes among the author's intention, the text's intention, and the reader's intention. Building on Eco's framework, Carlos Evia and Sarah O'Keefe (2026) discuss <em>intentio algorithmi</em> as an additional perspective for understanding algorithmic influence on communication. This primer applies that perspective to everyday AI-assisted writing.</p>
 
 <p>This proposed fourth perspective examines how AI systems influence the language of messages through training patterns, system instructions, and other operational factors. It does not suggest that AI possesses human intentions or consciousness.</p>
 
@@ -74,7 +74,7 @@ permalink: /theory/how-this-site-was-built/
 
 <p>This primer is an introductory educational resource rather than a comprehensive account of communication theory. Each section focuses on selected concepts that are especially useful for understanding AI-assisted communication.</p>
 
-<p>The proposed concept of <em>intentio algorithmi</em> is an exploratory analytical extension introduced in this project. It should not be understood as an established concept developed by Umberto Eco or as a claim that AI systems possess human intentions.</p>
+<p><em>Intentio algorithmi</em> was not one of Eco's original three intentions. Evia and O'Keefe (2026) discuss this additional perspective in relation to AI and content creation. This primer applies their discussion to everyday communication rather than claiming to introduce the concept itself. The framework does not imply that AI systems possess human intentions or consciousness.</p>
 
 <p>The examples throughout the website are illustrative scenarios designed to demonstrate theoretical concepts. They are not presented as findings from original empirical research.</p>
 
@@ -87,10 +87,11 @@ permalink: /theory/how-this-site-was-built/
 <h2>Selected References</h2>
 
 <ul>
-<li>Chandler, Daniel. <em>Semiotics: The Basics</em>. 3rd ed., Routledge, 2017.</li>
+<li>Chandler, Daniel. <em>Semiotics: The Basics</em>. 5th ed., Routledge, 2025.</li>
+<li>Chiang, Ted. "ChatGPT Is a Blurry JPEG of the Web." <em>The New Yorker</em>, February 9, 2023.</li>
 <li>Eco, Umberto. <em>The Limits of Interpretation</em>. Indiana University Press, 1990.</li>
-<li>Hall, Stuart. "Encoding/Decoding." In <em>Culture, Media, Language</em>, edited by Stuart Hall, Dorothy Hobson, Andrew Lowe, and Paul Willis, 128-138. Hutchinson, 1980.</li>
+<li>Evia, Carlos, and Sarah O'Keefe. <em>The Uninvited Author: AI, Intent, and the Future of Content</em>. 2026.</li>
+<li>Hall, Stuart. "Encoding/Decoding." In <em>Culture, Media, Language</em>, edited by Stuart Hall, Dorothy Hobson, Andrew Lowe, and Paul Willis, pp. 128–138. Hutchinson, 1980.</li>
 <li>Shannon, Claude E., and Warren Weaver. <em>The Mathematical Theory of Communication</em>. University of Illinois Press, 1949.</li>
 </ul>
-</p>
 </article>
